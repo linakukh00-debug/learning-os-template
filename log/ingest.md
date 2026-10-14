@@ -1,5 +1,6 @@
 # Ingest log
 
-| Date | Item | Raw location / URL | Source card | Added by | Rights / note |
-| --- | --- | --- | --- | --- | --- |
-| YYYY-MM-DD | _title_ | `raw/...` or URL | [[source-slug]] | _name_ | _public / private / link only_ |
+| Date       | Item                                                           | Raw location / URL                           | Source card                                              | Added by        | Rights / note  |
+| ---------- | -------------------------------------------------------------- | -------------------------------------------- | -------------------------------------------------------- | --------------- | -------------- |
+| 14.10.2026 | Лекция №1. Системы контроля версий и практическая работа с Git | [[raw/lectures/ВвИТ Лекция №1 Git 2026.pdf]] | [[../wiki/sources/Лекция Git ВВИТ 1\|Лекция Git ВВИТ 1]] | Кухарская П. А. | course-private |
+|            |                                                                |                                              |                                                          |                 |                |
