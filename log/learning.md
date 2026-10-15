@@ -1,5 +1,6 @@
 # Learning log
 
-| Date | Activity | Evidence | Next action |
-| --- | --- | --- | --- |
-| YYYY-MM-DD | _retrieval practice / lecture / task_ | _link_ | _next step_ |
+| Date       | Activity | Evidence                                                                          | Next action                       |
+| ---------- | -------- | --------------------------------------------------------------------------------- | --------------------------------- |
+| 2026-10-15 | lecture  | [[../learning/lectures/Конспект лекция №1 ВВИТ GIT\|Конспект лекция №1 ВВИТ GIT]] | закрепить материал в лабораторной |
+|            |          |                                                                                   |                                   |
